@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Code/data/page_sequence.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code/data/result.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code/data/track_sequence.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code/include/file.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code/include/memory.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code/include/process.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code/include/virtual_memory.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code/src/file.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code/src/function.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code/src/main.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code/src/memory.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code/src/process.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code/src/virtual_memory.cpp" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

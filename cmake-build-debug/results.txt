@@ -1,0 +1,2 @@
+SCAN Disk Scheduling Results:
+Total Distance Moved: 169

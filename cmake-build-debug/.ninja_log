@@ -1,0 +1,18 @@
+# ninja log v5
+8	2526	7569950793158537	CMakeFiles/operating_system.dir/Code/src/process.cpp.obj	6e42656cf6bb12ec
+7	760	7569237552571068	CMakeFiles/operating_system.dir/Code/src/file.cpp.obj	7d4d57f76e268ca8
+7	649	7569969677028825	CMakeFiles/operating_system.dir/Code/src/memory.cpp.obj	c7e0b80e041257dc
+7	1138	7570008992752425	CMakeFiles/operating_system.dir/Code/src/virtual_memory.cpp.obj	811aa50666698592
+4	19	0	clean	cf9684286d11234
+8	3368	7568952267921178	CMakeFiles/operating_system.dir/Code/src/main.cpp.obj	8eb3c9a0bf2eb5b
+1139	1533	7570008996717336	operating_system.exe	a627fd6f565dc2b
+18	1768	7570002944180119	CMakeFiles/operating_system.dir/Code/src/function.cpp.obj	b07b774ee3f59a2
+7	681	7570027791815013	CMakeFiles/operating_system.dir/Code/src/file.cpp.obj	7d4d57f76e268ca8
+681	1058	7570027795524510	operating_system.exe	a627fd6f565dc2b
+6	656	7570030260249268	CMakeFiles/operating_system.dir/Code/src/file.cpp.obj	7d4d57f76e268ca8
+656	1018	7570030263829440	operating_system.exe	a627fd6f565dc2b
+18	756	7570060786391230	CMakeFiles/operating_system.dir/Code/src/memory.cpp.obj	c7e0b80e041257dc
+29	768	7570060786508828	CMakeFiles/operating_system.dir/Code/src/file.cpp.obj	7d4d57f76e268ca8
+39	1855	7570060797388851	CMakeFiles/operating_system.dir/Code/src/function.cpp.obj	b07b774ee3f59a2
+7	2484	7570060803641478	CMakeFiles/operating_system.dir/Code/src/process.cpp.obj	6e42656cf6bb12ec
+2484	2877	7570060807573536	operating_system.exe	a627fd6f565dc2b
